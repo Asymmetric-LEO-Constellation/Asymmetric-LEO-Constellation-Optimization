@@ -1,1 +1,1 @@
-In this folder, you can find GIFs of the satellites in orbit.
+In this folder, you can find GIFs of the satellites in orbit. The "216RandomOperators" gif is an asymmetric constellation our algorithm designed, the "216sats180distribution" and "216sats1530distribution" gifs are Walker Delta constellations. Only the first 180 time slices (90 minutes) are visible in the gifs.
